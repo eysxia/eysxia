@@ -21,9 +21,9 @@ class merciful_lol(Profile):
 
 
 if __name__ == "__main__":
-    profile = MercifulLol()
+    profile = merciful_lol()
     profile.display_profile()
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merciful-lol&layout=donut-vertical&bg_color=151B23)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=merciful-lol&show_icons=true&bg_color=151B23)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merciful-lol&layout=donut-vertical&bg_color=00000000)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=merciful-lol&show_icons=true&bg_color=00000000)
