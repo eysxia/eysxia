@@ -29,7 +29,10 @@ if __name__ == "__main__":
 </p>
 
 <details align="center">
+    <summary><h2><b>⭐ Github Stats</b></h2></summary>
+    <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eysxia&layout=donut-vertical&bg_color=00000000"/>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=eysxia&show_icons=true&bg_color=00000000"/>
+    </p>
 </details>
