@@ -24,6 +24,12 @@ if __name__ == "__main__":
     profile = eysxia()
     profile.display_profile()
 ```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eysxia&style=flat-square&color=faa6ff" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eysxia&layout=donut-vertical&bg_color=00000000)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eysxia&show_icons=true&bg_color=00000000)
+<details align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eysxia&layout=donut-vertical&bg_color=00000000"/>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=eysxia&show_icons=true&bg_color=00000000"/>
+</details>
